@@ -1,0 +1,15 @@
+pack.name=§l§cルビーアドオンRP
+pack.description=ルビーでできたアイテムやブロックを追加します！
+item.ruby:ruby=ルビー
+tile.ruby:ruby_block.name=ルビーブロック
+tile.ruby:ruby_ore.name=ルビー鉱石
+tile.ruby:deepslate_ruby_ore.name=深層ルビー鉱石
+item.ruby:ruby_sword=ルビーの剣
+item.ruby:ruby_pickaxe=ルビーの剣
+item.ruby:ruby_axe=ルビーの斧
+item.ruby:ruby_shovel=ルビーのシャベル
+item.ruby:ruby_hoe=ルビーのクワ
+item.ruby:ruby_helmet=ルビーのヘルメット
+item.ruby:ruby_chestplate=ルビーのチェストプレート
+item.ruby:ruby_leggings=ルビーのレギンス
+item.ruby:ruby_boots=ルビーのブーツ

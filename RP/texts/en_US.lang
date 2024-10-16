@@ -1,0 +1,15 @@
+pack.name=Ruby RP
+pack.description=Add ruby items!
+item.ruby:ruby=Ruby
+tile.ruby:ruby_block.name=Block of Ruby
+tile.ruby:ruby_ore.name=Ruby Ore
+tile.ruby:deepslate_ruby_ore.name=Deepslate Ruby Ore
+item.ruby:ruby_sword=Ruby Sword
+item.ruby:ruby_pickaxe=Ruby Pickaxe
+item.ruby:ruby_axe=Ruby Axe
+item.ruby:ruby_shovel=Ruby Shovel
+item.ruby:ruby_hoe=Ruby Hoe
+item.ruby:ruby_helmet=Ruby Helmet
+item.ruby:ruby_chestplate=Ruby Chestplate
+item.ruby:ruby_leggings=Ruby Leggings
+item.ruby:ruby_boots=Ruby Boots
