@@ -1,0 +1,19 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"ruby:ruby_block": {
+		"sound": "stone",
+		"textures": "ruby_ruby_block"
+	},
+	"ruby:ruby_ore": {
+		"sound": "stone",
+		"textures": "ruby_ruby_ore"
+	},
+	"ruby:deepslate_ruby_ore": {
+		"sound": "stone",
+		"textures": "ruby_deepslate_ruby_ore"
+	}
+}
