@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "ruby:ruby_from_deepslate_ore"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "ruby:ruby_deepslate_ore",
+		"output": "ruby:ruby"
+	}
+}
