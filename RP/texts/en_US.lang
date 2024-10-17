@@ -1,4 +1,4 @@
-pack.name=Ruby RP
+pack.name=§l§cRuby RP
 pack.description=Add ruby items!
 item.ruby:ruby=Ruby
 tile.ruby:ruby_block.name=Block of Ruby
