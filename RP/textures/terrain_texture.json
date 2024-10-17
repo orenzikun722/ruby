@@ -5,13 +5,13 @@
 	"texture_name": "atlas.terrain",
 	"texture_data": {
 		"ruby_ruby_block": {
-			"textures": "textures/blocks/lapis_block"
+			"textures": "textures/blocks/ruby_block"
 		},
 		"ruby_ruby_ore": {
-			"textures": "textures/blocks/lapis_ore"
+			"textures": "textures/blocks/ruby_ore"
 		},
 		"ruby_deepslate_ruby_ore": {
-			"textures": "textures/blocks/deepslate_lapis_ore"
+			"textures": "textures/blocks/deepslate_ruby_ore"
 		}
 	}
 }
