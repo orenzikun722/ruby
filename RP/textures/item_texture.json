@@ -6,19 +6,19 @@
 			"textures": "textures/items/ruby"
 		},
 		"ruby_ruby_sword": {
-			"textures": "textures/items/diamond_sword"
+			"textures": "textures/items/ruby_sword"
 		},
 		"ruby_ruby_pickaxe": {
-			"textures": "textures/items/diamond_pickaxe"
+			"textures": "textures/items/ruby_pickaxe"
 		},
 		"ruby_ruby_axe": {
-			"textures": "textures/items/diamond_axe"
+			"textures": "textures/items/ruby_axe"
 		},
 		"ruby_ruby_shovel": {
-			"textures": "textures/items/diamond_shovel"
+			"textures": "textures/items/ruby_shovel"
 		},
 		"ruby_ruby_hoe": {
-			"textures": "textures/items/diamond_hoe"
+			"textures": "textures/items/ruby_hoe"
 		},
 		"ruby_ruby_helmet": {
 			"textures": "textures/items/ruby_helmet"
